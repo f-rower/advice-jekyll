@@ -7,3 +7,4 @@ I want to compare whether Hugo or Jekyll is more convenient for contributing new
 - Seems pretty slow to update, VERY SLOW to update
 - I can't get the "adding a page to your site" to work
 - Further change
+- MORE CHANGE
