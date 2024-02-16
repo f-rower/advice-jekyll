@@ -3,3 +3,5 @@ I want to compare whether Hugo or Jekyll is more convenient for contributing new
 - Minimise number of technical steps required
 - pushing changes to the repository
 - seeing the changes in the website in real time
+## Thoughts on Jekyll
+- Seems pretty slow to update
